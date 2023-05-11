@@ -1,0 +1,11 @@
+#+STARTUP: content
+* elfeed :elfeed:
+** nufc :nufc:
+*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCzbwOixfdDkOEl4c2Gy1Xow][The Magpie Channel]]
+*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UC2WTz3aJZ65nN3p5_LMJAzg][Roobenstien]]
+*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCbXlSJHSuY1nNHoxSElKiIA][Adam Pearson]]
+*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCywGl_BPp9QhD0uAcP2HsJw][Newcastle United]]
+** general :general:
+*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCSiYkMylC3F_eQfIodMHkOw][Maximilien Robespierre]]
+*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCvixJtaXuNdMPUGdOPcY8Ag][David Pakman]]
+*** [[https://www.youtube.com/feeds/videos.xml?playlist_id=PLJaq64dKJZoqsh7PGGUi-SARV4wUz_lVa][A Closer Look]]
