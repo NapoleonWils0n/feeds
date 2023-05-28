@@ -14,6 +14,7 @@
 *** [[https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw][The Linux Experiment]]
 ** emacs :emacs:youtube:
 *** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCAiiOTio8Yu69c3XnR7nQBQ][System Crafters]]
+*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCEqYjPJdmEcUVfHmQwJVM9A][Emacs Elements]]
 *** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCxkMDXQ5qzYOgXPRnOBrp1w][Mike Zamansky]]
 *** [[https://www.youtube.com/feeds/videos.xml?playlist_id=PL8Bwba5vnQK14z96Gil86pLMDO2GnOhQ6][Protesilaos Stavrou]]
 ** reddit :reddit:
