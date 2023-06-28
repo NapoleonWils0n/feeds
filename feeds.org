@@ -21,6 +21,5 @@
 *** [[https://www.reddit.com/r/Fedora/new.rss][Fedora]]
 *** [[https://www.reddit.com/r/linux/new.rss][Linux]]
 *** [[https://www.reddit.com/r/torrents/new.rss][Torrents]]
-*** [[https://www.reddit.com/r/Piracy/new.rss][Piracy]]
 *** [[https://www.reddit.com/r/firefox/new.rss][Firefox]]
 *** [[https://www.reddit.com/r/emacs/new.rss][Emacs]]
