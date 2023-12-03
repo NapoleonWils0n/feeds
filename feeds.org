@@ -8,6 +8,7 @@
 ** general :general:youtube:
 *** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCSiYkMylC3F_eQfIodMHkOw][Maximilien Robespierre]]
 *** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCvixJtaXuNdMPUGdOPcY8Ag][David Pakman]]
+*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UC5dUUCs748wCYQl682LX6bg][Farron Balanced]]
 *** [[https://www.youtube.com/feeds/videos.xml?playlist_id=PLJaq64dKJZoqsh7PGGUi-SARV4wUz_lVa][A Closer Look]]
 ** tech :tech:youtube:
 *** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCxwcmRAmBRzZMNS37dCgmHA][RoboNuggie]]
