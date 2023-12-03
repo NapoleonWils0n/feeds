@@ -10,15 +10,15 @@
 *** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCvixJtaXuNdMPUGdOPcY8Ag][David Pakman]]
 *** [[https://www.youtube.com/feeds/videos.xml?playlist_id=PLJaq64dKJZoqsh7PGGUi-SARV4wUz_lVa][A Closer Look]]
 ** tech :tech:youtube:
+*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCxwcmRAmBRzZMNS37dCgmHA][RoboNuggie]]
+*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCIFzjAer2W9gTWVECZgtDzg][Gary H Tech]]
 *** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCkf4VIqu3Acnfzuk3kRIFwA][gotbletu]]
-*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw][The Linux Experiment]]
 ** emacs :emacs:youtube:
 *** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCAiiOTio8Yu69c3XnR7nQBQ][System Crafters]]
 *** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCxkMDXQ5qzYOgXPRnOBrp1w][Mike Zamansky]]
 *** [[https://www.youtube.com/feeds/videos.xml?playlist_id=PL8Bwba5vnQK14z96Gil86pLMDO2GnOhQ6][Protesilaos Stavrou]]
 ** reddit :reddit:
-*** [[https://www.reddit.com/r/Fedora/new.rss][Fedora]]
-*** [[https://www.reddit.com/r/linux/new.rss][Linux]]
-*** [[https://www.reddit.com/r/torrents/new.rss][Torrents]]
-*** [[https://www.reddit.com/r/firefox/new.rss][Firefox]]
 *** [[https://www.reddit.com/r/emacs/new.rss][Emacs]]
+*** [[https://www.reddit.com/r/freebsd/new.rss][Freebsd]]
+*** [[https://www.reddit.com/r/firefox/new.rss][Firefox]]
+*** [[https://www.reddit.com/r/torrents/new.rss][Torrents]]
