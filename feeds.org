@@ -6,7 +6,6 @@
 *** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCbXlSJHSuY1nNHoxSElKiIA][Adam Pearson]]
 *** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCywGl_BPp9QhD0uAcP2HsJw][Newcastle United]]
 ** general :general:youtube:
-*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCSiYkMylC3F_eQfIodMHkOw][Maximilien Robespierre]]
 *** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCvixJtaXuNdMPUGdOPcY8Ag][David Pakman]]
 *** [[https://www.youtube.com/feeds/videos.xml?channel_id=UC5dUUCs748wCYQl682LX6bg][Farron Balanced]]
 *** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCYWIEbibRcZav6xMLo9qWWw][Ring of Fire]]
@@ -17,15 +16,9 @@
 *** [[https://www.youtube.com/feeds/videos.xml?channel_id=UC1s1OsWNYDFgbROPV-q5arg][Michael Horn]]
 *** [[https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw][The Linux Experiment]]
 *** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w][TechHut]]
-*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UC05XpvbHZUQOfA6xk4dlmcw][DJ Ware]]
-*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCEJEoY7bHQossChK6O-M2Gw][Techiechap]]
-*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCkf4VIqu3Acnfzuk3kRIFwA][gotbletu]]
 ** freebsd :freebsd:
 *** [[https://forums.freebsd.org/forums/-/index.rss][freebsd forum]]
 ** emacs :emacs:youtube:
 *** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCAiiOTio8Yu69c3XnR7nQBQ][System Crafters]]
 *** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCxkMDXQ5qzYOgXPRnOBrp1w][Mike Zamansky]]
 *** [[https://www.youtube.com/feeds/videos.xml?playlist_id=PL8Bwba5vnQK14z96Gil86pLMDO2GnOhQ6][Protesilaos Stavrou]]
-** reddit :reddit:
-*** [[https://www.reddit.com/r/emacs/new.rss][Emacs]]
-*** [[https://www.reddit.com/r/freebsd/new.rss][Freebsd]]
