@@ -11,12 +11,10 @@
 *** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCYWIEbibRcZav6xMLo9qWWw][Ring of Fire]]
 *** [[https://www.youtube.com/feeds/videos.xml?playlist_id=PLJaq64dKJZoqsh7PGGUi-SARV4wUz_lVa][A Closer Look]]
 ** tech :tech:youtube:
-*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCxwcmRAmBRzZMNS37dCgmHA][RoboNuggie]]
-*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCIFzjAer2W9gTWVECZgtDzg][Gary H Tech]]
 *** [[https://www.youtube.com/feeds/videos.xml?channel_id=UC1s1OsWNYDFgbROPV-q5arg][Michael Horn]]
 *** [[https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw][The Linux Experiment]]
 *** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCjSEJkpGbcZhvo0lr-44X_w][TechHut]]
 ** emacs :emacs:youtube:
-*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCAiiOTio8Yu69c3XnR7nQBQ][System Crafters]]
+*** [[https://www.youtube.com/feeds/videos.xml?channel_id=ucaiiotio8yu69c3xnr7nqbq][System Crafters]]
 *** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCxkMDXQ5qzYOgXPRnOBrp1w][Mike Zamansky]]
 *** [[https://www.youtube.com/feeds/videos.xml?playlist_id=PL8Bwba5vnQK14z96Gil86pLMDO2GnOhQ6][Protesilaos Stavrou]]
